@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
+  "versionCode": 100,
   "versionName": "1.0.0",
-  "minSupportedVersion": 1,
+  "minSupportedVersion": 100,
   "downloadUrl": "https://github.com/mohammad-rabius-sani/PichiPlayer/releases/latest/download/PichiPlayer.apk",
   "releasesPageUrl": "https://github.com/mohammad-rabius-sani/PichiPlayer/releases",
   "releaseDate": "October 3, 2026",
