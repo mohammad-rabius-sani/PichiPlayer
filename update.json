@@ -1,0 +1,21 @@
+{
+  "versionCode": 100,
+  "versionName": "1.0.0",
+  "minSupportedVersion": 100,
+  "downloadUrl": "https://github.com/mohammad-rabius-sani/PichiPlayer/releases/latest/download/PichiPlayer.apk",
+  "releasesPageUrl": "https://github.com/mohammad-rabius-sani/PichiPlayer/releases",
+  "releaseDate": "October 3, 2026",
+  "title": "Welcome to PichiPlayer v1.0.0! 🚀",
+  "message": "Initial official release of PichiPlayer - The ultra-fast, modern, offline video player for Android with 4K/2K smooth playback, Auto/HW/SW decoder engine, and complete format support.",
+  "changelog": [
+    "🎬 Complete Resolution Badges: Full detection for 240p, 360p, 480p, 720p, 1080p (FHD), 2K, 4K, 8K & 3GP format tags.",
+    "⚡ Auto / HW / SW Decoder Engine: Choose between Smart Auto, GPU Hardware MediaCodec, or Software CPU decoding directly from Settings or the Player HUD.",
+    "🚀 2K & 4K Ultra-Smooth Playback: Asynchronous hardware buffer queueing, 64MB high-bitrate load control, and zero-stutter playback.",
+    "✨ Micro-Animations: Spring-damped rotation swivel, play/pause bounce pulse, and fluid overlay transitions.",
+    "🎛️ Streamlined Home Card Player: 10s seek buttons, play/pause, and dismissable preview card showing last-played video details.",
+    "📱 Ergonomic Top Bar: Subtitles and PiP buttons conveniently placed next to screen rotation.",
+    "🔄 Update Manager & What's New: Auto-update checker and first-launch release notes modal."
+  ],
+  "isForceUpdate": false,
+  "apkSize": "15.5 MB"
+}

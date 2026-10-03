@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Mathematically & Optically Centered PichiPlayer Play Badge (Centroid & Visual Weight at (54, 54)) -->
+    <path
+        android:fillType="evenOdd"
+        android:pathData="M 37,27 C 41,25 45,27 48,29 L 80,50 C 83,52 83,56 80,58 L 48,79 C 45,81 41,83 37,81 C 34,79 34,75 34,71 L 34,37 C 34,33 34,29 37,27 Z M 47,42 C 47,40 48,39 50,40 L 68,52 C 69,53 69,55 68,56 L 50,68 C 48,69 47,68 47,66 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="34"
+                android:startY="26"
+                android:endX="83"
+                android:endY="82"
+                android:type="linear">
+                <item android:color="#4F8CFF" android:offset="0.0" />
+                <item android:color="#8B6CFF" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+</vector>
